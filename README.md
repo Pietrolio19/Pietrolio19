@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pietrolio19
+- 👀 I’m interested in CS, programming, DBs
+- 🌱 I’m currently learning Computer engineering
+- 📫 How to reach me pietromadioni224@gmail.com
+- 😄 Pronouns: he/him
